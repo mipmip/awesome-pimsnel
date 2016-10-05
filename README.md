@@ -27,6 +27,9 @@ that's is so abvious that anyone should know it, is not mentioned here.
 
 ## Editor
 * [Vim](http://www.vim.org) - I just like it most
+* [Janus](https://github.com/carlhuda/janus) - Because I like Vim but
+  I'm lazy and trust [wycats](http://yehudakatz.com) for almost all my tech needs.
+
 
 # Other Awesome Lists
 

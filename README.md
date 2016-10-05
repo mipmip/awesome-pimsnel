@@ -17,6 +17,7 @@ I just started, so it's quite incomplete.  I hope it grows soon.
 
 ### Front End
 * [MediaBoxes](http://www.davidbo.dreamhosters.com/plugins/mediaBoxes/example/demo1.html) - Nice Jquery Gallery Plugin, $18. Should use it  in a commercial project.
+* [FLat UI])(http://designmodo.github.io/Flat-UI/) - Clean and nice looking bootstrap ui kit. Free and Pro($) edition
 
 # Other Awesome Lists
 

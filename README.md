@@ -35,6 +35,7 @@ that's is so abvious that anyone should know it, is not mentioned here.
 * [Bram Molenaar](http://www.moolenaar.net) - Creator of Vim
 * [Yahuda Katz](http://yehudakatz.com) - (co)Creator of Bundler, Janus, Ember, Thor
 * [Linux Torvalds](https://github.com/torvalds) - Creator of Linux and
+* [Yukihiro Matsumoto](https://github.com/matz) - Creator of Ruby
 
 # Other, Awesome Lists
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.

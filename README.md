@@ -4,7 +4,8 @@ Pim's Personal Awesome List about Tech and Life.
 
 A categorized collection of awesome resources to anything I have interest in.  About programming, design, food, gardening, cidre making,  etc, etc, etc....
 
-I just started, so it's quite incomplete.  I hope it grows soon.
+I just started, so it's quite incomplete.  I hope it grows soon. Stuff
+that's is so abvious that anyone should know it, is not mentioned here.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -18,6 +19,12 @@ I just started, so it's quite incomplete.  I hope it grows soon.
 ### Front End
 * [MediaBoxes](http://www.davidbo.dreamhosters.com/plugins/mediaBoxes/example/demo1.html) - Nice Jquery Gallery Plugin, $18. Should use it  in a commercial project.
 * [FLat UI](http://designmodo.github.io/Flat-UI/) - Clean and nice looking bootstrap ui kit. Free and Pro($) edition
+
+### Testing Windows and Internet Explorer
+* [ievms](http://xdissent.github.io/ievms/) - Cli utility to install free testing
+  virtual machine's with Windows., I hope I'll never have to use this. Though I
+  made this Gem for using it [ievms-ruby](https://github.com/mipmip/ievms-ruby)
+
 
 # Other Awesome Lists
 

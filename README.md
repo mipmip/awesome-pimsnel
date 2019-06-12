@@ -1,41 +1,56 @@
-# Pim's (mipmip) Personal Awesome List
+# Pim's (mipmip) Personal Awesome List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Pim's Personal Awesome List about Tech and Life.
+> Pim's Personlijke ````Awesome List```` over technologie, eten en alles dat me boeit. Sorry this list is in written in Dutch.
 
-A categorized collection of awesome resources to anything I have interest in.  About programming, design, food, gardening, cidre making,  etc, etc, etc....
+## Vim
 
-I just started, so it's quite incomplete.  I hope it grows soon. Stuff
-that's is so abvious that anyone should know it, is not mentioned here.
+Vim is geweldig. Ik woon in Vim, zoals ik woon in een roman.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-# NO TOC YET
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## Development
-
-### Front End
-* [MediaBoxes](http://www.davidbo.dreamhosters.com/plugins/mediaBoxes/example/demo1.html) - Nice Jquery Gallery Plugin, $18. Should use it  in a commercial project.
-* [FLat UI](http://designmodo.github.io/Flat-UI/) - Clean and nice looking bootstrap ui kit. Free and Pro($) edition
-
-### Testing Windows and Internet Explorer
-* [ievms](http://xdissent.github.io/ievms/) - Cli utility to install free testing
-  virtual machine's with Windows., I hope I'll never have to use this. Though I
-  made this Gem for using it [ievms-ruby](https://github.com/mipmip/ievms-ruby)
-
-## Editor
-* [Vim](http://www.vim.org) - I just like it most
-* [Janus](https://github.com/carlhuda/janus) - Because I like Vim but
-  I'm lazy and trust [wycats](http://yehudakatz.com) for almost all my tech needs.
-
+- [Vim](http://www.vim.org) - Hoofdkantoor
 
 ## Developers  Who I admire
-* [Bram Molenaar](http://www.moolenaar.net) - Creator of Vim
-* [Yahuda Katz](http://yehudakatz.com) - (co)Creator of Bundler, Janus, Ember, Thor
-* [Linux Torvalds](https://github.com/torvalds) - Creator of Linux and
-* [Yukihiro Matsumoto](https://github.com/matz) - Creator of Ruby
+- [Bram Molenaar](http://www.moolenaar.net) - Maker van Vim
+- [Yahuda Katz](http://yehudakatz.com) - Man met alleen maar belangrijke projecten op zijn naam: Bundler, Janus, Ember, Thor, jQuery, Yarn
+- [Linux Torvalds](https://github.com/torvalds) - Maker van Linux and Git
+- [Yukihiro Matsumoto](https://github.com/matz) - Maker van Ruby
+- [Ton Roosendaal](https://en.wikipedia.org/wiki/Ton_Roosendaal) - Maker van Blender
 
-# Other, Awesome Lists
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
+## Interessante GitHub accounts
+
+- https://github.com/Jack000
+- https://github.com/Tuurlijk - Belangrijke typo3 bijdragen, vooral op het gebied van beheer
+- https://github.com/cantino - Originele ontwikkelaar
+- https://github.com/jashkenas
+- https://github.com/wycats
+- https://github.com/sferik
+- https://github.com/sorah
+
+## Software voor software-bedrijven
+
+### Helpdesk / Issue reporting
+
+- [Helpy](https://helpy.io) - Open source support systeem
+- [Brimir](https://getbrimir.com) - Open source support systeem
+- [Zammad](https://zammad.com) - Open source support systeem
+
+## Website Development
+
+### Mooie websites
+- http://cactuslab.com
+- https://awkward.co
+
+### jQuery Components
+* [MediaBoxes](http://www.davidbo.dreamhosters.com/plugins/mediaBoxes/example/demo1.html) - Mooie betaalde Jquery Gallery Plugin, $18.
+
+## Suggesties
+
+Suggesties zijn welkom, maar besef dat deze lijst puur voor persoonlijk gebruik is.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Pim Snel has waived all copyright and
+related or neighboring rights to this work.
+
+
